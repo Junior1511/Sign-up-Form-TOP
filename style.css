@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(168, 163, 163);
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
